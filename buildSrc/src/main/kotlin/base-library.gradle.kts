@@ -4,6 +4,9 @@ plugins {
 	`maven-publish`
 }
 
+group = "com.elex-project.amarok"
+version = "2.4.0"
+
 repositories {
 	maven {
 		url = uri("https://repository.elex-project.com/repository/maven")

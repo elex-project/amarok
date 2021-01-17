@@ -3,9 +3,6 @@ plugins {
 
 }
 
-group = "com.elex-project.amarok"
-version = "2.4.0"
-
 allprojects {
 
 }
