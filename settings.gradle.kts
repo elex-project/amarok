@@ -1,3 +1,2 @@
 rootProject.name = "amarok"
-include("address", "weather", "currency")
-
+include("address", "weather", "currency", "astro")

@@ -1,8 +1,8 @@
 plugins{
-	id("base-library")
+	id("base-http-library")
 }
 
-description = "Amarok: with HTTP APIs"
+description = "Kakao Address API, part of Project Amarok"
 
 dependencies {
 

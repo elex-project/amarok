@@ -133,3 +133,4 @@ fabric.properties
 /weather/build/
 /address/build/
 /buildSrc/build/
+/astro/build/
