@@ -1,0 +1,45 @@
+{
+  "documents": [{
+    "address": {
+      "sub_adderss_no": "",
+      "h_code": "2635055200",
+      "region_3depth_name": "좌동",
+      "main_address_no": "1476",
+      "address_name": "부산 해운대구 좌동 1476-1",
+      "main_adderss_no": "",
+      "region_2depth_name": "해운대구",
+      "region_3depth_h_name": "좌2동",
+      "region_1depth_name": "부산",
+      "b_code": "2635010700",
+      "zip_code": "",
+      "mountain_yn": "N",
+      "x": "129.176777393347",
+      "sub_address_no": "1",
+      "y": "35.16737568579"
+    },
+    "address_type": "ROAD_ADDR",
+    "x": "129.176777393347",
+    "y": "35.16737568579",
+    "address_name": "부산 해운대구 양운로 45",
+    "road_address": {
+      "building_name": "해운대베르나움",
+      "road_name": "양운로",
+      "undergroun_yn": "",
+      "region_3depth_name": "좌동",
+      "sub_building_no": "",
+      "address_name": "부산 해운대구 양운로 45",
+      "region_2depth_name": "해운대구",
+      "zone_no": "48104",
+      "region_1depth_name": "부산",
+      "main_building_no": "45",
+      "underground_yn": "N",
+      "x": "129.176777393347",
+      "y": "35.16737568579"
+    }
+  }],
+  "meta": {
+    "total_count": 1,
+    "is_end": true,
+    "pageable_count": 1
+  }
+}

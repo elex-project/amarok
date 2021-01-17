@@ -1,0 +1,27 @@
+{
+  "documents": [{
+    "address": {
+      "mountain_yn": "N",
+      "region_3depth_name": "좌동",
+      "main_address_no": "1476",
+      "sub_address_no": "1",
+      "address_name": "부산 해운대구 좌동 1476-1",
+      "region_2depth_name": "해운대구",
+      "region_1depth_name": "부산",
+      "zip_code": ""
+    },
+    "road_address": {
+      "road_name": "양운로",
+      "main_building_no": "45",
+      "building_name": "해운대베르나움",
+      "region_3depth_name": "",
+      "underground_yn": "N",
+      "sub_building_no": "",
+      "address_name": "부산광역시 해운대구 양운로 45",
+      "region_2depth_name": "해운대구",
+      "zone_no": "48104",
+      "region_1depth_name": "부산"
+    }
+  }],
+  "meta": {"total_count": 1}
+}
