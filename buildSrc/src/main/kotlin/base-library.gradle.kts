@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.elex-project.amarok"
-version = "2.4.0"
+version = "2.4.1"
 
 repositories {
 	maven {
@@ -18,6 +18,10 @@ dependencies {
 	implementation("org.jetbrains:annotations:20.1.0")
 
 	api("com.elex-project:abraxas:4.0.2")
+	api("com.elex-project:http-companion:2.1.1")
+
+	implementation("com.fasterxml.jackson.core:jackson-databind:2.12.1")
+	implementation("com.fasterxml.jackson.core:jackson-annotations:2.12.1")
 
 	compileOnly("org.projectlombok:lombok:1.18.16")
 	annotationProcessor("org.projectlombok:lombok:1.18.16")
