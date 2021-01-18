@@ -10,10 +10,7 @@
         </processorPath>
         <module name="amarok.currency.test" />
         <module name="amarok.address.main" />
-        <module name="amarok.weather.test" />
         <module name="amarok.address.test" />
-        <module name="amarok.currency.main" />
-        <module name="amarok.weather.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
